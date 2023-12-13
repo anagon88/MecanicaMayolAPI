@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MecanicaMayolAPI", "MecanicaMayolAPI\MecanicaMayolAPI.csproj", "{A8F68670-21DC-400E-A528-FF4E22A94B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8F68670-21DC-400E-A528-FF4E22A94B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F68670-21DC-400E-A528-FF4E22A94B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F68670-21DC-400E-A528-FF4E22A94B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F68670-21DC-400E-A528-FF4E22A94B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32AAB67A-72F5-4B1C-8D7D-45A7DE384F48}
+	EndGlobalSection
+EndGlobal
