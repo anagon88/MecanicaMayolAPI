@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MecanicaMayolAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ba59a1a05d053ef01300431d3541ad9d4fb6594")]
 [assembly: System.Reflection.AssemblyProductAttribute("MecanicaMayolAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MecanicaMayolAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
